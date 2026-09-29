@@ -1,0 +1,26 @@
+# Ansys Electronics Desktop temporary files
+*.lock
+*.semaphore
+
+# Ansys temporary/cache files
+*.tmp
+*.temp
+
+# HFSS result/cache data
+*.ngmesh
+*.dmesh
+*.cmesh
+*.imesh
+
+# Ansys result folders
+*.aedtresults/
+
+# Temporary/cache folders
+temp/
+Temp/
+cache/
+Cache/
+
+# Operating system files
+Thumbs.db
+.DS_Store
